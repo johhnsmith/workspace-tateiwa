@@ -1,0 +1,30 @@
+header{
+    width:auto;
+    height:150px;
+}
+header .logo{
+    height:60px;
+    background-color:white;
+}
+header img{
+    height:60px;
+}
+header ul{float:left;
+    width:100%;
+    height:50px;
+    list-style: none;
+    background-color:black;
+    color:white;
+    margin-bottom: 30px;
+}
+header li{float:left;
+    line-height: 50px;
+    width:130px;
+}
+.maincont .left{
+    width:70%;
+}
+.maincont h1{
+    border-left:solid 3px;
+    border-bottom: solid 1px;
+}

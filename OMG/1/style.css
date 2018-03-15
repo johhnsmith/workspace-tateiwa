@@ -1,0 +1,12 @@
+body{
+background-color: crimson;
+background-image:url("../2/img/A.gif");
+background-attachment: fixed;
+background-repeat:space;
+}
+
+a{
+position:fixed;
+    top:50%;
+    left:50%
+}
